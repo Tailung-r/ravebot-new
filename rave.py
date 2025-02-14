@@ -297,4 +297,4 @@ async def ticket(ctx):
     await ctx.send(embed=embed, view=view)
 
 
-bot.run("MTI5NjE4NTUzNzAxNDUzNDE4Ng.GD4oOF.ioVsuBCnsvzy2j6R76rgE_Fdkk8uqhlg3sHD1Q")
+bot.run("TOKEN")
